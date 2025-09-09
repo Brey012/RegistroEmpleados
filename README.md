@@ -11,7 +11,7 @@
 ---
 
 ## 👤 Autor
-- **Nombre:** disenoydesarrollo
+- **Nombre:** Breyner Hernández Ossa
 - **Año:** 2025
 
 ---
