@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue.svg" alt="Python">
-  <img src="https://img.shields.io/badge/Autor-disenoydesarrollo-green.svg" alt="Autor">
+  <img src="https://img.shields.io/badge/Autor-Brey012-green.svg" alt="Autor">
   <img src="https://img.shields.io/badge/Año-2025-orange.svg" alt="Año">
 </p>
 
